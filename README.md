@@ -8,14 +8,6 @@ I'm a passionate software engineer with expertise in Java and Python. I thrive o
 - **Data Structures & Algorithms:** Adept at crafting efficient solutions.
 - **Paradigms:** Enthusiastic about the elegance and expressiveness of functional programming.
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=toliveiradev&show_icons=true&hide=issues&hide_title=true&count_private=true)
-
-## 📊 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=toliveiradev&layout=compact)
-
 ## 📚 Mystery Book Aficionado
 
 Fun Fact: When I'm not immersed in the world of coding, you'll often find me engrossed in the pages of a gripping mystery novel. From classic whodunits to contemporary thrillers, I have an insatiable appetite for stories that keep me on the edge of my seat. Just as in coding, where I unravel the mysteries of algorithms, in books, I love untangling the intricate plots that authors weave. If you ever need a book recommendation or want to discuss the latest plot twists, feel free to drop me a message. Happy reading! 📖🕵️‍♂️
