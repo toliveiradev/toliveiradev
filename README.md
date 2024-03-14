@@ -28,4 +28,4 @@ Let's connect and swap coding stories!
 [![Linkedin: Tiago](https://img.shields.io/badge/-Tiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devtoliveira/)](https://www.linkedin.com/in/devtoliveira/)
 [![GitHub Tiago](https://img.shields.io/github/followers/toliveiradev?label=follow&style=social)](https://github.com/toliveiradev)
 
-Welcome to my GitHub crib! 
+Welcome to my GitHub crib! 🚀
