@@ -11,7 +11,7 @@ I'm a passionate software engineer transitioning into the world of data science 
 
 ### 📚 AI & Mystery Novels Enthusiast
 
-Fun Fact: I enjoy reading mystery novels when I'm not working on ML projects. Just as I love decoding intricate plots in books, I enjoy unravelling complex algorithms in code. If you share a passion for AI, ML, or mystery novels, let's connect and chat. Happy reading and coding! 📖🧠
+Fun Fact: I enjoy reading mystery novels when I'm not working on ML projects. Just as I love decoding intricate plots in books, I enjoy unravelling complex algorithms in code. If you share a passion for AI, ML, or mystery novels, let's connect and chat. Happy reading and coding! 📖 🧠
 
 ### 🌱 What's Keeping Me Busy
 
