@@ -4,7 +4,7 @@ I'm a software engineer with a deep curiosity for AI, Machine Learning, and Deep
 
 ### 🔧 What I'm Good At
 
-- **Languages:** Java and Python.
+- **Languages:** Java, Python and R.
 - **Machine Learning & Deep Learning:** Developing models, experimenting with neural networks, and applying algorithms to real-world challenges.
 - **AI:** Creating and fine-tuning intelligent systems that can learn, adapt, and evolve.
 - **Paradigms:** Proficient in object-oriented programming with a solid grasp of functional programming concepts.
