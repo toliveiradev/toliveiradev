@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Tiago!
 
-I'm a software engineer with a deep curiosity for Machine Learning and Deep Learning. With over 10 years of experience in Java and Python, I'm now channeling my expertise into building intelligent systems and solving complex problems through advanced algorithms. I'm also pursuing a second degree in Mathematics to deepen my understanding of these cutting-edge fields.
+I'm a software engineer deeply interested in AI, ML and DL. With over 10 years of experience in Java and Python, I'm now channelling my expertise into building intelligent systems and solving complex problems through advanced algorithms. I'm also pursuing a second degree in Mathematics to deepen my understanding of these cutting-edge fields.
 
 ### 🔧 What I'm Good At
 
